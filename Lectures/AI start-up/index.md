@@ -8,9 +8,7 @@ layout: base
 
 <iframe src="mermaid.html" width="700" height="430" ></iframe>
 
-* 創業思維
-  * [簡易版](./start-up.mm.md)
-  * [心智圖](./start-up.mm.html)
+* [創業思維](./start-up.mm.html)
 * 學習能力
   * 認知神經學
   * 認知心理學
