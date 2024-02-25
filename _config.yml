@@ -34,6 +34,17 @@ defaults:
     values:
       layout: "page/note/slides"
 
+exclude:
+  - "*.mm.md"
+
+kramdown:
+  parse_block_html: true
+  
+collections:
+  directories:
+    output: true
+
+
 social:
   - platform: envelope
     url: mailto:alchemy@posetmage.com

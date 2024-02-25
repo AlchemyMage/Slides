@@ -1,6 +1,5 @@
 # Why Learn AI so Hard
 
-
 <div class="slide">
 ## 為什麼學AI很難
 <img src="./Slides/HardToLearn/wizard-using-computer.png" width=700>  
@@ -8,6 +7,7 @@
 </div>
 
 <div class="slide">
+
 ## 難點：找到方向
 <table>
 <tr>
