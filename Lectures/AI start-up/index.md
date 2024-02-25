@@ -10,8 +10,4 @@ layout: base
 
 * [創業思維](./start-up.mm)
 * [認知神經學](./Cognitive%20Neuroscience.mm)
-* AI
-  * AI演算法
-  * AI硬體
-  * AI軟體應用
-  * 學習AI思維
+* [AI的一切](./all%20about%20AI.mm)
