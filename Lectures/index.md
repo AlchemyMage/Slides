@@ -16,4 +16,4 @@ layout: base
     * AI硬體基礎認識
     * 
 
-[AI時代下的創業思維](./AI%20start-up/)
+[AI時代下的創業思維](AI start-up/Cognitive Neuroscience.md)
