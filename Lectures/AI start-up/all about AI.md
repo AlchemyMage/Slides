@@ -1,3 +1,6 @@
+---
+layout: page/note/markmap
+---
 
 # Artificial Intelligence Overview
 

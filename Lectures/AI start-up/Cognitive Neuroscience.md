@@ -1,3 +1,7 @@
+---
+layout: page/note/markmap
+---
+
 # 認知神經學
 
 ## 什麼是學習

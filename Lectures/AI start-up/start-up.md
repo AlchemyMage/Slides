@@ -1,3 +1,6 @@
+---
+layout: page/note/markmap
+---
 
 # 創業思維
 
