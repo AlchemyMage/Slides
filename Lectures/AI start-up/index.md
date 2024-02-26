@@ -10,4 +10,4 @@ layout: base
 
 * [創業思維](./start-up.mm)
 * [認知神經學](./Cognitive%20Neuroscience.mm)
-* [AI的一切](./all%20about%20AI.mm)
+* [人工智慧](./all%20about%20AI.mm)
