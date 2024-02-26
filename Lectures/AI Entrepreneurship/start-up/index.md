@@ -11,20 +11,18 @@ layout: page/note/markmap
 * YC[創業課程](https://www.youtube.com/playlist?list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB)
     * <iframe width="450" height="255" src="https://www.youtube.com/embed/BUE-icVYRFU" title="YouTube video player" frameborder="0" ></iframe> 
 
-
 ## 成長
 ### [安全邊際](https://alchemy.posetmage.com/Content/Social%20Science/Entrepreneurship.html#header-1)
 * 創造一個可以無限試錯並且進步的空間
 ### Resilience
 * YC創業第一堂就提到[心智韌性](https://alchemy.posetmage.com/Content/Social%20Science/Psychology/Resilience.html)
 
-
 ## [解決問題導向思維](https://alchemy.posetmage.com/Content/Social%20Science/Entrepreneurship.html#header-3)
 * 隨時都要檢查目標是解決核心問題 
   * 第一性原理
 * Zero to One
   * <img src="zero-to-one.webp" height="200">  
-    * image source: [kobo](https://cdn.kobo.com/book-images/8ac7fd3a-b91f-4ed2-9633-3b46efe99905/1200/1200/False/zero-to-one-2.jpg)
+    * image source: kobo
 
 ## 迭代速度
 * 時機的重要性
