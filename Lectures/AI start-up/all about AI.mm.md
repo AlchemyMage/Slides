@@ -40,6 +40,7 @@
 - Feature Engineering
 - Deep Learning
   - Convolutional Neural Networks (CNN)
+    * VGG-19
   - Recurrent Neural Networks (RNN)
   - Generative Adversarial Networks (GAN)
   - Deep Reinforcement Learning
