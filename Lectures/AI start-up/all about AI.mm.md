@@ -18,13 +18,16 @@
 
 ### Machine Learning Family
 - Statistics
-  * 統計可以領略上帝的意圖
   * Monte Carlo
+    * <img src="./Buffon_needle_experiment_compressed.gif"> 
+      * source: wiki
   * Markov Chain
 - Big Data
   * batch process
 - Data Mining
   * 關聯學習
+    * <img src="https://assets-global.website-files.com/64e50cbe2b6f932c04238c14/65169704b0cad9ac293583b2_620d66797b1a6e206c229ca7_Deep-learning-Cartesian-coordinate-and-polar-system.jpeg">  
+      * source: [Choosing an Optimal Algorithm for AI in Cybersecurity](https://www.vectra.ai/blog/choosing-an-optimal-algorithm-for-ai-in-cybersecurity)
 - Supervised Learning
   - Logistic Regression
   - Decision Trees
@@ -65,6 +68,8 @@
 
 ### Traditional DL AI Applications
 - Image Recognition and Classification
+  * <img src="https://miro.medium.com/v2/1*Hz6t-tokG1niaUfmcysusw.jpeg" height="400">  
+    * source: [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 - Music Track Splitting
 - Speech Recognition
 - Natural Language Processing
@@ -72,7 +77,6 @@
 - Robotics
 - Anomaly Detection
 - Sentiment Analysis
-- Object Detection
 - Denoising
 
 ### AI-Generated Content (AIGC)
@@ -92,8 +96,6 @@
 - 日麻AI：整體規劃比幾張牌些微機率差異重要
 - 撲克AI：Nash EQ, GTO, exploit
 - 訓練多種能力，再做特定任務fine-tuning，performance更好
-- Emphasis on overall planning in complex tasks
-- General task training before  for specific tasks
 
 ### AI Workflow Integration
 - Integration with existing workflows through text processing and LLM
