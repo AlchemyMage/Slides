@@ -4,7 +4,6 @@
 ## AI Algorithms
 
 ### Traditional AI
-- Expert Systems
 - Rule-Based Systems
 - State Machine
 - Fuzzy Logic
@@ -21,7 +20,7 @@
 - Statistics
   * 統計可以領略上帝的意圖
   * Monte Carlo
-  * Markov chain
+  * Markov Chain
 - Big Data
   * batch process
 - Data Mining
