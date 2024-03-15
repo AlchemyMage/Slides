@@ -2,7 +2,7 @@
 layout: page/note/markmap
 ---
 
-# AI工作流
+# AI工作流01 認識AI mindmap
 
 ## 使用AI
 
