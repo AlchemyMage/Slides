@@ -44,6 +44,9 @@ layout: page/note/markmap
   * 快速生成初版
 * 科研輔助
   * 由AI尋找藥物  
+* AI音樂輔助
+  * track split
+  * AI作曲
 
 ### (典範轉移後期)提升價值舉例
 * 小說家使用AI幫忙繪圖
