@@ -66,11 +66,14 @@ layout: page/note/markmap
   * 長期推論<span>Q*</span>, AlphaCodeII
 
 ## 使用AI的方式
+
 ### 現階段 
 * 具備Domain Knowledge
 * 轉換成格式文字(未來不需要這步)
+
 ### Hacking技巧
 * GPT
 * DALLE 3
 * GPTs
 
+## 作業
