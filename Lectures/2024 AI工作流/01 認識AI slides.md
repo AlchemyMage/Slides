@@ -121,7 +121,12 @@
 
 ## 範例：上字幕
 ### 語音轉文字
-  * 快速生成初版
+  * 快速生成初版，再人工修正
+
+### 影片轉語言 
+* 結合deepfake
+  * [AI讓 Taylor Swift 說流利中文](https://www.facebook.com/intleconobserve/videos/%E7%95%B6ai%E4%B9%9F%E8%83%BD%E8%AE%93-taylor-swift-%E8%AA%AA%E6%B5%81%E5%88%A9%E4%B8%AD%E6%96%87/713753216815295/)
+  * Rask AI
 
 </div>
 
