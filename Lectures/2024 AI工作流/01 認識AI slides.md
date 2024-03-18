@@ -125,6 +125,8 @@
   * 跟AI討論架構
   * 讓AI寫部分程式碼
 
+### Devin
+
 </div>
 
 <div class="slide">
