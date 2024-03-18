@@ -20,15 +20,15 @@
 
 <p style="font-size: 24px;">
 (X) 我有一個任務 -> 找AI去做 -> AI做不好 -> AI好爛
-
+</p>
+<p style="font-size: 24px;">
 (O) 我有一個AI -> 找這個AI能做的事給它 -> AI完成任務
 </p>
 
 #### References:
 * <iframe width="350" height="255" src="https://www.youtube.com/embed/KoT08Kno10A" title="YouTube video player" frameborder="0" ></iframe>  
-* <img src="./aigc.webp" width="350">
+* <img src="./aigc.webp" width="350">  
   * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
-
 
 </div>
 
@@ -47,11 +47,32 @@
 
 <div class="slide">
 
+## AI下棋打牌
+  * 圍棋AI - KataGo
+    * <img src="https://user-images.githubusercontent.com/16438795/239653023-369442f4-e35f-4dc7-98f4-5cf7a266c2f9.png" width="300">
+  * 日麻AI - NGA
+    * <img src="https://ai.posetmage.com/Boards/Cthulhu/2023-07-25-2.png" width="300">
+  * 撲克AI和GTO理論
+    * <img src="https://assets-global.website-files.com/5e6616ad415f1e3b494ddec8/6305c9ff04a3d1e255c1e950_main-image-blog-post_GTO.png" width="300">
+      * 圖片來源:[GTO Poker 101: Master Game Theory Optimal Implications](https://www.pokercode.com/blog/gto-poker)
+</div>
+
+<div class="slide">
+
+## 範例：輔助作曲
+  * track split
+    * [WaveTone｜AI分軌](https://www.youtube.com/watch?v=8EzGb6d18kw)
+  * AI作曲
+</div>
+
+<div class="slide">
+
 ## 範例：繪師
 ### 繪師 - 找參考
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
   * 資料參考 (取代pinterest)
   * 構圖參考
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
 
 </div>
 
@@ -79,12 +100,7 @@
 
 </div>
 
-<div class="slide">
 
-## 範例：輔助作曲
-  * track split
-  * AI作曲
-</div>
 
 <div class="slide">
 
