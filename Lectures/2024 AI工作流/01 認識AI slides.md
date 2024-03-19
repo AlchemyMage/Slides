@@ -18,17 +18,14 @@
 
 ## 使用AI的思維
 
-<p style="font-size: 24px;">
-(X) 我有一個任務 -> 找AI去做 -> AI做不好 -> AI好爛
-</p>
-<p style="font-size: 24px;">
-(O) 我有一個AI -> 找這個AI能做的事給它 -> AI完成任務
-</p>
+* <p style="font-size: 24px;">(X) 我有一個任務 -> 找AI去做 -> AI做不好 -> AI好爛</p>
 
-#### References:
-* <iframe width="350" height="255" src="https://www.youtube.com/embed/KoT08Kno10A" title="YouTube video player" frameborder="0" ></iframe>  
-* <img src="./aigc.webp" width="350">  
-  * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
+* <p style="font-size: 24px;">(O) 我有一個AI -> 找這個AI能做的事給它 -> AI完成任務</p>
+
+* 典範轉移前期:
+  * 常見現象 - AI不好用
+    * <img src="./aigc.webp" width="350">  
+      * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
 
 </div>
 
@@ -37,9 +34,9 @@
 ## 典範轉移
 
 * Montage - Kuleshov effect
-<iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
-* 標靶藥物Halicin
+* 標靶藥物 Halicin
 
 * 紀實攝影(Photo Documentary)
 
@@ -113,7 +110,7 @@
 
 ### 問卷
 * 問卷生產 - 需要存成檔案
-* [分析問卷]((https://ai.posetmage.com/Boards/Money/2023-07-30-AI%E5%88%86%E6%9E%90%E5%95%8F%E5%8D%B7.html))
+* [分析問卷](https://ai.posetmage.com/Boards/Money/2023-07-30-AI%E5%88%86%E6%9E%90%E5%95%8F%E5%8D%B7.html)
 
 </div>
 
@@ -154,6 +151,16 @@
 </div>
 
 <div class="slide">
+
+## 範例：生成影片
+
+### Stable Video Diffusion
+
+### Sora
+
+</div>
+
+<div class="slide">
   
 ## 典範轉移後期
 * 小說家使用AI幫忙繪圖
@@ -177,20 +184,13 @@
 
 <div class="slide">
 
-## 使用AI的方式
-### 現階段 
-* 具備Domain Knowledge
-* 轉換成格式文字(未來不需要這步)
-### Hacking技巧
-* GPT
-* DALLE 3
-* GPTs
-
-</div>
-
-<div class="slide">
-
 ## 作業
-
+* 思考問題類型
+  * 典範轉移前期：少量替代，高度軍備競賽的紅海，需要高品質
+  * 典範轉移後期：全新設計，降維打擊的藍海市場，不須高品質
+* 影片
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/KoT08Kno10A" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/b8Bx2oNJWlI" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
