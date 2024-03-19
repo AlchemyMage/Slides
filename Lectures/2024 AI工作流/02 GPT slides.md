@@ -7,8 +7,9 @@
 * 具備Domain Knowledge
 * 轉換成格式文字(未來不需要這步)
 
-### Hacking技巧
-* GPT
+### GPT系列
+* GPT4
+* GPT copilot
 * DALLE 3
 * GPTs
 
