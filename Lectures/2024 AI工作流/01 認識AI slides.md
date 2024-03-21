@@ -33,8 +33,11 @@
 
 ## 典範轉移
 
+典範轉移(Paradigm shift)
+
 * 紀實攝影(Photo Documentary)
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/431px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" heigh="300">
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/431px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" height="300">
+    * 圖片來源：wiki
 * Montage - Kuleshov effect
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
@@ -85,7 +88,7 @@
   * 主題發想
   * 填表格
     * [Beat Sheet](https://alchemy.posetmage.com/Novel/Arcanum/Settings/Main%20Story)
-    * [Character](ttps://alchemy.posetmage.com/Novel/Arcanum/Settings/Medina)
+    * [Character](https://alchemy.posetmage.com/Novel/Arcanum/Settings/Medina)
 
 </div>
 

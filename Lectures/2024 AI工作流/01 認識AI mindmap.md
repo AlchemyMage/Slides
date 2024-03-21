@@ -23,17 +23,18 @@ layout: page/note/markmap
       * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
 
 
-## 典範轉移前期
+## 典範轉移(Paradigm shift)
 
 ### 範例
 
 * 紀實攝影(Photo Documentary)
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/431px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" heigh="300">
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/431px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" height="300">
+    * 圖片來源：wiki
 
 * Montage - Kuleshov effect
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
-* 標靶藥物Halicin
+* 標靶藥物 Halicin
 
 
 ### AI下棋打牌
@@ -68,6 +69,8 @@ layout: page/note/markmap
   * <img src="./01/source.webp" width="350">  
 * 主題發想
 * 填表格
+  * [Beat Sheet](https://alchemy.posetmage.com/Novel/Arcanum/Settings/Main%20Story)
+  * [Character](https://alchemy.posetmage.com/Novel/Arcanum/Settings/Medina)
 
 
 
