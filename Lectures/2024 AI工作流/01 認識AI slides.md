@@ -140,7 +140,8 @@
 * 對話
 * 出題目
 * GPTs
-
+  * <img src="./01/Elma.webp" width="350">  
+  * <img src="./01/nagi.webp" width="350">  
 </div>
 
 <div class="slide">

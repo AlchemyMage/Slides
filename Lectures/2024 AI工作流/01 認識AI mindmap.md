@@ -114,7 +114,8 @@ layout: page/note/markmap
 * 對話
 * 出題目
 * GPTs
-
+  * <img src="./01/Elma.webp" width="350">  
+  * <img src="./01/nagi.webp" width="350">  
 
 
 ### 範例：上字幕
