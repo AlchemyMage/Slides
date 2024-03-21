@@ -7,7 +7,7 @@
 ### 現在的AI到底是什麼?
 
 * 無限猴子理論
-    * <img src="./infinite_monkey.webp" width="300">
+    * <img src="./01/infinite_monkey.webp" width="300">
 * 聖經密碼
     * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bible_code_example.svg/200px-Bible_code_example.svg.png" height="400">
     * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moby_Dick_code.gif/220px-Moby_Dick_code.gif" width="300">
@@ -24,7 +24,7 @@
 
 * 典範轉移前期:
   * 常見現象 - AI不好用
-    * <img src="./aigc.webp" width="350">  
+    * <img src="./01/aigc.webp" width="350">  
       * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
 
 </div>
@@ -33,43 +33,43 @@
 
 ## 典範轉移
 
+* 紀實攝影(Photo Documentary)
+
 * Montage - Kuleshov effect
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
 * 標靶藥物 Halicin
 
-* 紀實攝影(Photo Documentary)
 
 </div>
 
 <div class="slide">
 
 ## AI下棋打牌
-  * 圍棋AI - KataGo
-    * <img src="https://user-images.githubusercontent.com/16438795/239653023-369442f4-e35f-4dc7-98f4-5cf7a266c2f9.png" width="300">
-  * 日麻AI - NGA
-    * <img src="https://ai.posetmage.com/Boards/Cthulhu/2023-07-25-2.png" width="300">
-  * 撲克AI和GTO理論
-    * <img src="https://assets-global.website-files.com/5e6616ad415f1e3b494ddec8/6305c9ff04a3d1e255c1e950_main-image-blog-post_GTO.png" width="300">
-      * 圖片來源:[GTO Poker 101: Master Game Theory Optimal Implications](https://www.pokercode.com/blog/gto-poker)
+* 圍棋AI - KataGo
+  * <img src="https://user-images.githubusercontent.com/16438795/239653023-369442f4-e35f-4dc7-98f4-5cf7a266c2f9.png" width="300">
+* 日麻AI - NGA
+  * <img src="https://ai.posetmage.com/Boards/Cthulhu/2023-07-25-2.png" width="300">
+* 撲克AI和GTO理論
+  * <img src="https://assets-global.website-files.com/5e6616ad415f1e3b494ddec8/6305c9ff04a3d1e255c1e950_main-image-blog-post_GTO.png" width="300">
+    * 圖片來源:[GTO Poker 101: Master Game Theory Optimal Implications](https://www.pokercode.com/blog/gto-poker)
 </div>
 
 <div class="slide">
 
 ## 範例：輔助作曲
-  * track split
-    * [WaveTone｜AI分軌](https://www.youtube.com/watch?v=8EzGb6d18kw)
-  * AI作曲
+* track split
+  * [WaveTone｜AI分軌](https://www.youtube.com/watch?v=8EzGb6d18kw)
+* AI作曲
 </div>
 
 <div class="slide">
 
 ## 範例：繪師
 ### 繪師 - 找參考
-  * 資料參考 (取代pinterest)
-  * 構圖參考
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
+* 資料參考 (取代pinterest)
+* 構圖參考
+* <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
 
@@ -78,8 +78,11 @@
 ## 範例：編劇
 ### 編劇 - 讓AI分工
   * 查找參考資料
+    * <img src="./01/source.webp" width="350">  
   * 主題發想
   * 填表格
+    * [Beat Sheet](https://alchemy.posetmage.com/Novel/Arcanum/Settings/Main%20Story)
+    * [Character](ttps://alchemy.posetmage.com/Novel/Arcanum/Settings/Medina)
 
 </div>
 
@@ -109,7 +112,7 @@
   * 套用數據分析模型
 
 ### 問卷
-* 問卷生產 - 需要存成檔案
+* 問卷需要存成檔案
 * [分析問卷](https://ai.posetmage.com/Boards/Money/2023-07-30-AI%E5%88%86%E6%9E%90%E5%95%8F%E5%8D%B7.html)
 
 </div>
@@ -119,8 +122,8 @@
 ## 範例：寫程式
 
 ### 讓AI當junior
-  * 跟AI討論架構
-  * 讓AI寫部分程式碼
+* 跟AI討論架構
+* 讓AI寫部分程式碼
 
 ### Devin
 
@@ -155,6 +158,7 @@
 ## 範例：生成影片
 
 ### Stable Video Diffusion
+* <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
 
 ### Sora
 

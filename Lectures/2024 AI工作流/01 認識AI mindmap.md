@@ -8,7 +8,7 @@ layout: page/note/markmap
 
 ### 現在的AI到底是什麼?
 * 無限猴子理論
-  * <img src="./infinite_monkey.webp" width="300">
+  * <img src="./01/infinite_monkey.webp" width="300">
 * 聖經密碼
   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bible_code_example.svg/200px-Bible_code_example.svg.png" height="400">
     * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moby_Dick_code.gif/220px-Moby_Dick_code.gif" width="300">
@@ -19,19 +19,21 @@ layout: page/note/markmap
 * (O) 我有一個AI -> 找這個AI能做的事給它 -> AI完成任務
 * 典範轉移前期:
   * 常見現象 - AI不好用
-    * <img src="./aigc.webp" width="350">  
+    * <img src="./01/aigc.webp" width="350">  
       * 圖片來源：[领先99%小白的Sora关键信息！](https://www.hellobit.com.cn/doc/2024/32159115.html)
 
 
 ## 典範轉移前期
 
 ### 範例
+
+* 紀實攝影(Photo Documentary)
+
 * Montage - Kuleshov effect
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
 * 標靶藥物Halicin
 
-* 紀實攝影(Photo Documentary)
 
 ### AI下棋打牌
   * 圍棋AI - KataGo
@@ -54,13 +56,13 @@ layout: page/note/markmap
   * 資料參考 (取代pinterest)
   * 構圖參考
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
-  * <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
 
 
 
 ### 範例：編劇
 #### 編劇 - 讓AI分工
   * 查找參考資料
+    * <img src="./01/source.webp" width="350">  
   * 主題發想
   * 填表格
 
@@ -124,6 +126,7 @@ layout: page/note/markmap
 ### 範例：生成影片
 
 * Stable Video Diffusion
+  * <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
 * Sora
 
   
@@ -138,7 +141,6 @@ layout: page/note/markmap
 
 
 ## AI的能力
-
 * Transformer
   * 全局思維
 * (未來)
