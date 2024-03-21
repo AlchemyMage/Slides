@@ -34,7 +34,7 @@
 ## 典範轉移
 
 * 紀實攝影(Photo Documentary)
-
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/431px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" heigh="300">
 * Montage - Kuleshov effect
   * <iframe width="450" height="255" src="https://www.youtube.com/embed/_gGl3LJ7vHc" title="YouTube video player" frameborder="0" ></iframe>  
 
@@ -70,6 +70,9 @@
 * 資料參考 (取代pinterest)
 * 構圖參考
 * <iframe width="450" height="255" src="https://www.youtube.com/embed/xT8-N9xlOrI" title="YouTube video player" frameborder="0" ></iframe>  
+* <img src="./01/Stable Diffusion.webp" width="350">  
+* <img src="./01/dalle3.webp" width="350">  
+
 
 </div>
 
