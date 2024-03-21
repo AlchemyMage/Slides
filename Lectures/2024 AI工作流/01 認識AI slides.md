@@ -51,7 +51,7 @@
 ## AI下棋打牌
 * 圍棋AI - KataGo
   * <img src="https://user-images.githubusercontent.com/16438795/239653023-369442f4-e35f-4dc7-98f4-5cf7a266c2f9.png" width="300">
-* 日麻AI - NGA
+* 日麻AI - NAGA
   * <img src="https://ai.posetmage.com/Boards/Cthulhu/2023-07-25-2.png" width="300">
 * 撲克AI和GTO理論
   * <img src="https://assets-global.website-files.com/5e6616ad415f1e3b494ddec8/6305c9ff04a3d1e255c1e950_main-image-blog-post_GTO.png" width="300">
