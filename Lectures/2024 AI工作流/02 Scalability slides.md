@@ -2,41 +2,11 @@
 
 <div class="slide">
 
-## 操作AI實驗
-* 角色扮演
-  * <img src="./02/DND1.webp">
-  * <img src="./02/DND2.webp">
-  * <img src="./02/DND3.webp">
-* 發揮創意
-  * <img src="./02/linux term1.webp">
-  * <img src="./02/linux term2.webp">
-  * <img src="./02/linux term3.webp">
-* Hacking
-  * <img src="./02/Hacking GPTs.webp">
-</div>
-
-<div class="slide">
-
 ## Prompt範例
 * <img src="./02/賄賂AI.webp">
 * 說話的藝術
   * <img src="./02/ask GPT A.webp" height="400">
   * <img src="./02/ask GPT B.webp" height="400">
-
-</div>
-
-<div class="slide">
-
-## 價值導向
-* Richard Feynman: You Should Have 12 Favorite Problems
-  * Marathon - Long term project
-  * Sprint - Short term project
-* 解決需求
-  * 舉例
-    * 軟體工程
-    * 繪師
-    * 翻譯
-    * 遊戲全語音
 
 </div>
 
@@ -52,6 +22,39 @@
 
 * <img src="./02/GPT agents.webp">
   * 圖片來源: https://twitter.com/sfdxpro/status/1627760386882650112
+
+</div>
+
+<div class="slide">
+
+## 操作AI實驗
+* 角色扮演
+  * <img src="./02/DND1.webp">
+  * <img src="./02/DND2.webp">
+  * <img src="./02/DND3.webp">
+* 發揮創意
+  * <img src="./02/linux term1.webp">
+  * <img src="./02/linux term2.webp">
+  * <img src="./02/linux term3.webp">
+* Hacking
+  * <img src="./02/Hacking GPTs.webp">
+</div>
+
+<div class="slide">
+
+## 價值導向
+* 投入的資源需要跟問題大小成正比
+  * 複雜問題需要複雜工具
+  * 避免殺雞用牛刀
+* Richard Feynman: You Should Have 12 Favorite Problems
+  * Marathon - Long term project
+  * Sprint - Short term project
+* 解決需求
+  * 舉例
+    * 軟體工程
+    * 繪師
+    * 翻譯
+    * 遊戲全語音
 
 </div>
 
@@ -107,7 +110,7 @@
 * 寫書: markdown -> html -> epub/pdf
 * 架站: markdown -> Jekyll -> github website
 * [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
-
+  * <img src="./02/dual-lang.webp">
 </div>
 
 
