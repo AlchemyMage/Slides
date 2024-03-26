@@ -56,6 +56,9 @@
     * 翻譯
     * 遊戲全語音
 
+* 舉例：宮廟現代化
+  * <img src="./02/AI解籤.webp">
+
 </div>
 
 <div class="slide">
@@ -107,10 +110,17 @@
 <div class="slide">
 
 ## 生產線範例
-* 寫書: markdown -> html -> epub/pdf
-* 架站: markdown -> Jekyll -> github website
-* [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
-  * <img src="./02/dual-lang.webp">
+* 節點替換
+  * 寫筆記: markdown -> Obsidian, vscode
+  * 心智圖: markdown -> markmap
+  * [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
+    * <img src="./02/dual-lang.webp">
+
+* SSOT(single source of truth)
+  * 寫書: markdown -> html -> epub/pdf
+  * 架站: markdown -> Jekyll -> github website -> Slides
+  * 企劃書： yml -> html
+
 </div>
 
 
