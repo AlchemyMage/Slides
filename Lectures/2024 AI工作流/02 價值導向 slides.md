@@ -1,4 +1,4 @@
-# AI工作流02 Scalability slides
+# AI工作流02 價值導向 slides
 
 <div class="slide">
 
