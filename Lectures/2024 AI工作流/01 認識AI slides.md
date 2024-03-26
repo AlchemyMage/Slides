@@ -1,4 +1,4 @@
-# AI工作流01 認識AI slides
+# AI工作流01 認識AI Slides
 
 <div class="slide">
 

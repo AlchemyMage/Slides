@@ -1,4 +1,4 @@
-# AI工作流02 價值導向 mindmap
+# AI工作流02 價值導向 Slides
 
 <div class="slide">
 
