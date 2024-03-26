@@ -1,4 +1,4 @@
-# AI工作流02 價值導向 slides
+# AI工作流02 價值導向 mindmap
 
 <div class="slide">
 
@@ -58,6 +58,9 @@
 
 * 舉例：宮廟現代化
   * <img src="./02/AI解籤.webp">
+* 舉例：AI輔助寫日記
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/ZRv0Z-M7NqM" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/3xW97NmAh1s" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
 
@@ -111,15 +114,19 @@
 
 ## 生產線範例
 * 節點替換
-  * 寫筆記: markdown -> Obsidian, vscode
-  * 心智圖: markdown -> markmap
+  * 寫筆記: markdown → Obsidian, vscode
+  * 心智圖: markdown → markmap
   * [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
     * <img src="./02/dual-lang.webp">
 
 * SSOT(single source of truth)
-  * 寫書: markdown -> html -> epub/pdf
-  * 架站: markdown -> Jekyll -> github website -> Slides
-  * 企劃書： yml -> html
+  * 寫書: markdown → html → epub/pdf
+  * 架站: markdown → Jekyll → github website → Slides
+  * 企劃書： [yml → html](https://posetmage.com/GameDesign/Tool/)
+    * 
+
+### 商業化案例
+* <iframe width="350" height="255" src="https://www.youtube.com/embed/dcrhhIKNaRQ" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
 
