@@ -62,6 +62,9 @@ layout: page/note/markmap
 
 * 舉例：宮廟現代化
   * <img src="./02/AI解籤.webp">
+* 舉例：AI輔助寫日記
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/ZRv0Z-M7NqM" title="YouTube video player" frameborder="0" ></iframe>  
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/3xW97NmAh1s" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
 
@@ -124,6 +127,9 @@ layout: page/note/markmap
   * 寫書: markdown -> html -> epub/pdf
   * 架站: markdown -> Jekyll -> github website -> Slides
   * 企劃書： yml -> html
+
+### 商業化案例
+* <iframe width="350" height="255" src="https://www.youtube.com/embed/dcrhhIKNaRQ" title="YouTube video player" frameborder="0" ></iframe>  
 
 </div>
 
