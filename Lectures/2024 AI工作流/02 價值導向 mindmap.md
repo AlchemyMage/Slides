@@ -4,15 +4,6 @@ layout: page/note/markmap
 
 # AI工作流02 價值導向 mindmap
 
-
-## Prompt範例
-* <img src="./02/賄賂AI.webp">
-* 說話的藝術
-  * <img src="./02/ask GPT A.webp" height="400">
-  * <img src="./02/ask GPT B.webp" height="400">
-
-
-
 ## 理解AI方式
 * 觀察 → 假設 → 實驗
 
@@ -20,24 +11,6 @@ layout: page/note/markmap
   * Transformer
   * 大型語言模型(LLM)
   * RAG(Retrieval Augmented Generation)
-
-* <img src="./02/GPT agents.webp">
-  * 圖片來源: https://twitter.com/sfdxpro/status/1627760386882650112
-
-
-
-## 操作AI實驗
-* 角色扮演
-  * <img src="./02/DND1.webp">
-  * <img src="./02/DND2.webp">
-  * <img src="./02/DND3.webp">
-* 發揮創意
-  * <img src="./02/linux term1.webp">
-  * <img src="./02/linux term2.webp">
-  * <img src="./02/linux term3.webp">
-* Hacking
-  * <img src="./02/Hacking GPTs.webp">
-
 
 ## 價值導向
 * 投入的資源需要跟問題大小成正比
@@ -52,14 +25,9 @@ layout: page/note/markmap
     * 繪師
     * 翻譯
     * 遊戲全語音
-
-* 舉例：宮廟現代化
-  * <img src="./02/AI解籤.webp">
-* 舉例：AI輔助寫日記
-  * <iframe width="350" height="255" src="https://www.youtube.com/embed/ZRv0Z-M7NqM" title="YouTube video player" frameborder="0" ></iframe>  
-  * <iframe width="350" height="255" src="https://www.youtube.com/embed/3xW97NmAh1s" title="YouTube video player" frameborder="0" ></iframe>  
-
-
+* 舉例
+  * 宮廟現代化
+  * AI輔助寫日記
 
 ## 工業化流程思維
 
@@ -79,7 +47,6 @@ layout: page/note/markmap
 * 公規：定義通用的介面，比如使用固定的格式與文字排版。
 
 
-
 ## 迭代範例
 
 ### 分析問卷
@@ -87,28 +54,11 @@ layout: page/note/markmap
 
 ### DALLE3
 * [ChatGPT History](./02/Hack%20DALLE.html)
-* 版權拒絕
-  * <img src="./02/Hack 01.webp">
-* 繞過
-  * <img src="./02/Hack 02.webp">
-* 嘗試繪圖
-  * <img src="./02/Hack 03.webp">
-* 修prompt失敗
-  * <img src="./02/Hack 04.webp">
-* 再修
-  * <img src="./02/Hack 05.webp">
-* 結果
-  * <img src="./02/Hack 06.webp">
-
-
-
 
 ## 生產線範例
 * 節點替換
   * 寫筆記: markdown → Obsidian, vscode
   * 心智圖: markdown → markmap
-  * [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
-    * <img src="./02/dual-lang.webp">
 
 * SSOT(single source of truth)
   * 寫書: markdown → html → epub/pdf
@@ -120,12 +70,8 @@ layout: page/note/markmap
 * <iframe width="350" height="255" src="https://www.youtube.com/embed/dcrhhIKNaRQ" title="YouTube video player" frameborder="0" ></iframe>  
 
 
-
-
 ## 問題導向範例
 * [GPTs](https://ai.posetmage.com/GPTs/)
-
-
 
 ## 作業
 * 價值問題
@@ -135,5 +81,5 @@ layout: page/note/markmap
   * DALLE 3
   * GPTs
 * 影片
-  * <iframe width="350" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="YouTube video player" frameborder="0" ></iframe>  
-
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="YouTube video player" frameborder="0" ></iframe>
+  * <iframe width="350" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="YouTube video player" frameborder="0" ></iframe>
