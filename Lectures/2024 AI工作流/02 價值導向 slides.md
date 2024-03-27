@@ -43,18 +43,17 @@
 <div class="slide">
 
 ## 價值導向
-* 投入的資源需要跟問題大小成正比
-  * 複雜問題需要複雜工具
-  * 避免殺雞用牛刀
 * Richard Feynman: You Should Have 12 Favorite Problems
   * Marathon - Long term project
   * Sprint - Short term project
-* 解決需求
-  * 舉例
-    * 軟體工程
-    * 繪師
-    * 翻譯
-    * 遊戲全語音
+* 投入的資源需要跟問題大小成正比
+  * 複雜問題需要複雜工具
+  * 避免殺雞用牛刀
+* 解決需求舉例
+  * 軟體工程
+  * 繪師
+  * 翻譯
+  * 遊戲全語音
 
 * 舉例：宮廟現代化
   * <img src="./02/AI解籤.webp">
@@ -68,9 +67,9 @@
 
 ## 工業化流程思維
 
-### 價值導向
-好的問題能夠清晰定義目標，界定範圍，並指引數據收集與分析的方向。
-* 明確與具體：問題應該是清晰且具體可衡量的，以便於定義成功的標準。
+### 價值問題
+* Context：好的前後文能夠清晰定義目標，界定範圍。
+* 明確與具體：問題應該是清晰且具體，甚至可衡量。
 * 分解問題：複雜的問題可以分解為更小、更易於管理的子問題。
 * 背景知識：結合領域內的背景知識來形成問題，這有助於確定哪些因素是關鍵的。
 
@@ -88,6 +87,9 @@
 <div class="slide">
 
 ## 迭代範例
+
+### 概念設計
+* <iframe width="350" height="255" src="https://www.youtube.com/embed/c9-MrCqcC6E" title="YouTube video player" frameborder="0" ></iframe>  
 
 ### 分析問卷
 * [中英問卷結果合併](https://ai.posetmage.com/Boards/Money/2023-07-30-AI%E5%88%86%E6%9E%90%E5%95%8F%E5%8D%B7.html)
