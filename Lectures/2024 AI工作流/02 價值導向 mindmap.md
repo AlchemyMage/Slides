@@ -81,4 +81,3 @@ layout: page/note/markmap
   * GPTs
 * 影片
   * <iframe width="350" height="255" src="https://www.youtube.com/embed/5kNCcpM61eo" title="YouTube video player" frameborder="0" ></iframe>
-  * <iframe width="350" height="255" src="https://www.youtube.com/embed/zWk69IPsMQs" title="YouTube video player" frameborder="0" ></iframe>
