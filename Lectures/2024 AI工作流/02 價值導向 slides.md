@@ -12,21 +12,6 @@
 
 <div class="slide">
 
-## 理解AI方式
-* 觀察 → 假設 → 實驗
-
-* 看AI相關技術說明
-  * Transformer
-  * 大型語言模型(LLM)
-  * RAG(Retrieval Augmented Generation)
-
-* <img src="./02/GPT agents.webp">
-  * 圖片來源: https://twitter.com/sfdxpro/status/1627760386882650112
-
-</div>
-
-<div class="slide">
-
 ## 操作AI實驗
 * 角色扮演
   * <img src="./02/DND1.webp">
@@ -42,6 +27,30 @@
 
 <div class="slide">
 
+## 工業化流程思維
+
+### 價值問題
+* 第一性原理：回歸事物最基本的條件，將其拆分成各要素進行解構分析。
+* Context：好的前後文能夠清晰定義目標，界定範圍。
+* 明確與具體：問題應該是清晰且具體，甚至可衡量。
+* 分解問題：複雜的問題可以分解為更小、更易於管理的子問題。
+* 背景知識：結合領域內的背景知識來切割問題，這有助於確定哪些因素是關鍵的。
+
+### 迭代思維
+* 實驗AI的隨機性：嘗試固定prompt觀察AI的行為pattern
+* 容錯與學習：接受失敗作為過程的一部分，從中調整直到獲得想要的結果
+* 流程優化：持續迭代為AI設計的生產流程
+
+### 標準化
+開發標準化的工具、框架和協議，以便於在不同的領域和應用中重複使用AI解決方案。
+* 公規：定義通用的介面，比如使用固定的格式與文字排版。
+* 自動化：設計能自動化的節點
+* 品管：設計檢驗方式
+
+</div>
+
+<div class="slide">
+
 ## 價值導向
 * Richard Feynman: You Should Have 12 Favorite Problems
   * Marathon - Long term project
@@ -50,14 +59,13 @@
   * 複雜問題需要複雜工具
   * 避免殺雞用牛刀
 * 解決需求舉例
-  * 軟體工程
-  * 繪師
-  * 翻譯
+  * 軟體工程成本下降 → 需要更多問題域
+  * 繪師 → 提升參考速度
+  * 翻譯 → 大規模使用
   * 遊戲全語音
-
-* 舉例：宮廟現代化
+  * 宮廟現代化
   * <img src="./02/AI解籤.webp">
-* 舉例：AI輔助寫日記
+  * AI輔助寫日記
   * <iframe width="350" height="255" src="https://www.youtube.com/embed/ZRv0Z-M7NqM" title="YouTube video player" frameborder="0" ></iframe>  
   * <iframe width="350" height="255" src="https://www.youtube.com/embed/3xW97NmAh1s" title="YouTube video player" frameborder="0" ></iframe>  
 
@@ -65,22 +73,16 @@
 
 <div class="slide">
 
-## 工業化流程思維
+## 理解AI方式
+* 觀察 → 假設 → 實驗
 
-### 價值問題
-* Context：好的前後文能夠清晰定義目標，界定範圍。
-* 明確與具體：問題應該是清晰且具體，甚至可衡量。
-* 分解問題：複雜的問題可以分解為更小、更易於管理的子問題。
-* 背景知識：結合領域內的背景知識來形成問題，這有助於確定哪些因素是關鍵的。
+* 看AI相關技術說明
+  * Transformer
+  * 大型語言模型(LLM)
+  * RAG(Retrieval Augmented Generation)
 
-### 迭代思維
-* 實驗AI的隨機性：嘗試固定prompt觀察AI的行為pattern
-* 容錯與學習：接受失敗作為過程的一部分，從中調整直到獲得想要的結果
-
-### 標準化
-開發標準化的工具、框架和協議，以便於在不同的領域和應用中重複使用AI解決方案。
-* 流程優化：為AI設計流程
-* 公規：定義通用的介面，比如使用固定的格式與文字排版。
+* <img src="./02/GPT agents.webp">
+  * 圖片來源: https://twitter.com/sfdxpro/status/1627760386882650112
 
 </div>
 
