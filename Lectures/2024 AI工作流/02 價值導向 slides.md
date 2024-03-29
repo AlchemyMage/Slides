@@ -125,7 +125,9 @@
   * 企劃書： [yml → html](https://posetmage.com/GameDesign/Tool/)
   * [影片上雙語字幕](https://github.com/LatticeMage/Tools/tree/main/Subtitle#flow)
     * <img src="./02/dual-lang.webp">
-    
+* <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
+
+
 ### 商業化案例
 * <iframe width="350" height="255" src="https://www.youtube.com/embed/dcrhhIKNaRQ" title="YouTube video player" frameborder="0" ></iframe>  
 

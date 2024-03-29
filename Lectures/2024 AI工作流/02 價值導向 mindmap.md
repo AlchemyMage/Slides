@@ -62,6 +62,7 @@ title: AI工作流02 價值導向 mindmap
 * 品管：設計檢驗方式與節點
 
 ### 生產線範例
+* <iframe width="450" height="255" src="https://www.youtube.com/embed/ZyltBRaAc3g" title="YouTube video player" frameborder="0" ></iframe>
 * 節點替換
   * 寫筆記: markdown → Obsidian, vscode
   * 心智圖: markdown → markmap
