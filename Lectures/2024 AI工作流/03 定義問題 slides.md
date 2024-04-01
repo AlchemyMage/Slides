@@ -7,30 +7,34 @@
 ### 提問技巧
 * 明確的目的
   * 確定提問的具體目的
+  * Divide and Conquer
 * 信息的細節
   * 包含足夠的背景信息或具體細節
+  * Domain Knowledge
+  * terms
 * 期望的結果
   * 描述你希望獲得的答案或解決方案類型
+  * 固定輸出格式
+    * (甚至不用固定輸入格式)
 
-### Divide and Conquer
-* Importance in project management
-  * split to multi ai angent
-* Example: Writing a research paper
-  * Divide: Research, Writing, Citation
-  * Conquer: Each section tackled with specific prompts
-* Example: Coding
-  * Discuss with AI to split problem into smaller pieces 
-  * Make the code as small as possible
+</div>
 
-### Fix Input/Output
-* 固定輸出格式
-* (甚至不用固定輸入格式)
+<div class="slide">
+
+## 填表格
 
 ### Constraint
 * Consistency
 * Scalability
 * Maintenance
 * Quality Assurance
+
+</div>
+
+<div class="slide">
+
+## 舉例 - 比較框架
+* [GPTs - Compare](https://ai.posetmage.com/GPTs/Tool/Libra%20-%20Compare%20Feature/)
 
 </div>
 
@@ -97,15 +101,9 @@
 
 <div class="slide">
 
-## 舉例 - 角色設計
-* 摩訶聖表格
-
-</div>
-
-<div class="slide">
-
-## 舉例 - 一頁式提案
-* 摩訶聖表格
+## 舉例 - 摩訶聖表格
+* 角色設計
+* 一頁式提案
 
 </div>
 
@@ -140,10 +138,15 @@
 <div class="slide">
 
 ## 作業
-* 把你的GPTs
+* GPTs
   * 定義問題情境
-  * 尋找或設計一個框架
-  * 切分節點
+  * domain knowledge
+    * 尋找或設計一個框架
+    * 切分節點
+    * (量化指標)
   * 定義輸入輸出的格式
-  
+
+## recommand
+* <img src="./03/principles.webp" height="300">
+
 </div>
