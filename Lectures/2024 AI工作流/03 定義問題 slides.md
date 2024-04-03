@@ -73,7 +73,7 @@
   * Choose a groove.
     * Harmonic Framework
     * Rhythmic Patterns
-* <img src="./03/Jazz.webp" width="300">
+* <img src="./03/jazz.webp" width="300">
 
 </div>
 
