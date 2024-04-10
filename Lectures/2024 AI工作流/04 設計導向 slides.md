@@ -42,6 +42,11 @@
   * [唠唠云游戏：你的下台游戏本，何必是游戏本](https://www.youtube.com/watch?v=qH8AVOz5Gdg)
 * Local LLM
   * [《M2 Ultra：干翻英伟达！决战AI之巅》](https://www.youtube.com/watch?v=UsfmqTb2NVY)
+* hardware cost
+  * NVIDIA H100 x 2 = NT$2,600,000
+  * mac studio M2 = NT$260,000
+  * AMD APU 8700G = NT$26,000
+
 
 ### Possible Solution
 * AI Agent
