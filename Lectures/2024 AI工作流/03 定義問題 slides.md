@@ -134,7 +134,12 @@
 
 </div>
 
+<div class="slide">
 
+## 問題導向範例
+[GPTs](https://ai.posetmage.com/GPTs/)
+
+</div>
 <div class="slide">
 
 ## 作業
