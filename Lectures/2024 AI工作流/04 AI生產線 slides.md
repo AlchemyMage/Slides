@@ -1,4 +1,4 @@
-# AI工作流04 設計導向 Slides
+# AI工作流04 AI生產線 Slides
 
 ## How humans interact with the world
 * Information Gathering (Past):
@@ -47,9 +47,22 @@
   * mac studio M2 = NT$260,000
   * AMD APU 8700G = NT$26,000
 
-
 ### Possible Solution
 * AI Agent
   * <img src="./04/VR.webp" height="300">
 * EEG
   * <img src="./04/EEG.webp" height="300">
+
+### concept extend 
+* AI Agent for project management
+  * task manager
+  * scheduler
+  * advisier
+
+## Multi-Agent Collaboration
+* Using AI to train teams of robots to work together
+* Training teams of robots to work together using AI
+* Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
+
+#### AI villagers
+* Generative Agents: Interactive Simulacra of Human Behavior
