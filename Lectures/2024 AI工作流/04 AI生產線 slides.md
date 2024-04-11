@@ -66,3 +66,17 @@
 
 #### AI villagers
 * Generative Agents: Interactive Simulacra of Human Behavior
+
+### Develop Framework
+source: [2023 TGDF] 極度邊緣的開發方式 (黃仕成) 
+* Early Discussion
+  * ![](./04/Ross%20Huang(0).webp)
+* Pre-Production
+  * ![](./04/Ross%20Huang(1).webp)
+  * ![](./04/Ross%20Huang(2).webp)
+  * ![](./04/Ross%20Huang(3).webp)
+* Production
+  * ![](./04/Ross%20Huang(4).webp)
+* Post-Production
+  * ![](./04/Ross%20Huang(5).webp)
+  * ![](./04/Ross%20Huang(6).webp)
