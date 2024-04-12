@@ -1,4 +1,4 @@
-# AI工作流04 生產線管理 Slides
+# AI工作流03 生產線管理 Slides
 
 <div class="slide">
 
@@ -46,14 +46,14 @@
 ## Multi-Agent
 
 ### MetaGPT 
-![](./04/MetaGPT.webp)
+![](03/MetaGPT.webp)
 
 ### ChatDev
-![](./04/ChatDev.webp)
+![](03/ChatDev.webp)
 
 ### AI villagers
 * Generative Agents: Interactive Simulacra of Human Behavior
-  * ![](./04/multi-AI.webp)
+  * ![](03/multi-AI.webp)
   * [圖片來源](https://pub.aimind.so/generative-agents-interactive-simulacra-of-human-behavior-ec15fbb50543)
 
 </div>
@@ -73,16 +73,16 @@
 ## Develop Framework
 source: [[2023 TGDF] 極度邊緣的開發方式 (黃仕成)](https://www.youtube.com/watch?v=yV0aYkDtqp8)
 * Early Discussion
-  * ![](./04/Ross%20Huang(0).webp)
+  * ![](03/Ross Huang(0).webp)
 * Pre-Production
-  * ![](./04/Ross%20Huang(1).webp)
-  * ![](./04/Ross%20Huang(2).webp)
-  * ![](./04/Ross%20Huang(3).webp)
+  * ![](03/Ross Huang(1).webp)
+  * ![](03/Ross Huang(2).webp)
+  * ![](03/Ross Huang(3).webp)
 * Production
-  * ![](./04/Ross%20Huang(4).webp)
+  * ![](03/Ross Huang(4).webp)
 * Post-Production
-  * ![](./04/Ross%20Huang(5).webp)
-  * ![](./04/Ross%20Huang(6).webp)
+  * ![](03/Ross Huang(5).webp)
+  * ![](03/Ross Huang(6).webp)
 
 </div>
 
