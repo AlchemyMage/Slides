@@ -79,6 +79,13 @@
 
 <div class="slide">
 
+## Midjourney
+* ![](./03/Hacking%20Midjourney.webp)
+
+</div>
+
+<div class="slide">
+
 ## 舉例 - 遊戲台詞
 * 立繪
 * 場景
@@ -109,23 +116,25 @@
 
 <div class="slide">
 
-## 舉例 - CRM with AARRR
-* **Acquisition**
-  * Targeted marketing, SEO, social media ads.
-* **Activation**
-  * Welcome emails, deals, tutorials.
-* **Retention**
-  * Personalized communication, loyalty programs.
-* **Referral**
-  * Referral programs, social proof.
-* **Revenue**
-  * Up-selling, cross-selling, pricing strategies.
+## 舉例 - CRM
+* AARRR
+  * **Acquisition**
+    * Targeted marketing, SEO, social media ads.
+  * **Activation**
+    * Welcome emails, deals, tutorials.
+  * **Retention**
+    * Personalized communication, loyalty programs.
+  * **Referral**
+    * Referral programs, social proof.
+  * **Revenue**
+    * Up-selling, cross-selling, pricing strategies.
+
 </div>
 
 
 <div class="slide">
 
-## 舉例 - Management table
+## 舉例 - softwares
 * Jira - Task Management
   * https://www.titansoft.com/tw/news/titansoft-JIRA
 * Airtable - Data Management 
