@@ -80,9 +80,21 @@
 
 <div class="slide">
 
-## Multi-Agent Collaboration
+## Multi-Agent
 
-* AI Agent for project management
+### MetaGPT 
+![](./04/MetaGPT.webp)
+
+### ChatDev
+![](./04/ChatDev.webp)
+
+### AI villagers
+* Generative Agents: Interactive Simulacra of Human Behavior
+  * ![](./04/multi-AI.webp)
+  * [圖片來源](https://pub.aimind.so/generative-agents-interactive-simulacra-of-human-behavior-ec15fbb50543)
+
+### AI Agent for project management
+* role
   * task manager
   * scheduler
   * advisier
@@ -91,25 +103,7 @@
   * Training teams of robots to work together using AI
   * Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
 
-</div>
-
-<div class="slide">
-
-## MetaGPT 
-![](./04/MetaGPT.webp)
-
-
-#### AI villagers
-* Generative Agents: Interactive Simulacra of Human Behavior
-  * ![](./04/multi-AI.webp)
-  * [圖片來源](https://pub.aimind.so/generative-agents-interactive-simulacra-of-human-behavior-ec15fbb50543)
-
-</div>
-
-
-<div class="slide">
-
-## Develop Framework
+### Develop Framework
 source: [2023 TGDF] 極度邊緣的開發方式 (黃仕成) 
 * Early Discussion
   * ![](./04/Ross%20Huang(0).webp)
