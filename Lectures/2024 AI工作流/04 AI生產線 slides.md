@@ -1,5 +1,7 @@
 # AI工作流04 AI生產線 Slides
 
+<div class="slide">
+
 ## How humans interact with the world
 * Information Gathering (Past):
   * apply information on chaos
@@ -11,6 +13,11 @@
   * apply experience on knowledge
   * we should learn experience
 
+</div>
+
+
+<div class="slide">
+
 ## Paradigm shift
 * Executor → Decision Maker
 * Progress → End-to-End
@@ -18,14 +25,29 @@
   * AI company
 * Q*, AlphaCode 2
 
+</div>
+
+
+<div class="slide">
+
 ## Evolution
 * What is possible?
 * What is likely to happen?
 * What is desirable to have happen?
 
+</div>
+
+
+<div class="slide">
+
 ## value question
 * Identify a problem that becomes increasingly solvable or manageable with the progression of technology.
 * The focus is on advancements that enhance usability and effectiveness over time, rather than on updates that make learning and using new software more cumbersome.
+
+</div>
+
+
+<div class="slide">
 
 ## Research: VR UX
 
@@ -53,21 +75,41 @@
 * EEG
   * <img src="./04/EEG.webp" height="300">
 
-### concept extend 
+</div>
+
+
+<div class="slide">
+
+## Multi-Agent Collaboration
+
 * AI Agent for project management
   * task manager
   * scheduler
   * advisier
+* papers:
+  * Using AI to train teams of robots to work together
+  * Training teams of robots to work together using AI
+  * Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
 
-## Multi-Agent Collaboration
-* Using AI to train teams of robots to work together
-* Training teams of robots to work together using AI
-* Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
+</div>
+
+<div class="slide">
+
+## MetaGPT 
+![](./04/MetaGPT.webp)
+
 
 #### AI villagers
 * Generative Agents: Interactive Simulacra of Human Behavior
+  * ![](./04/multi-AI.webp)
+  * [圖片來源](https://pub.aimind.so/generative-agents-interactive-simulacra-of-human-behavior-ec15fbb50543)
 
-### Develop Framework
+</div>
+
+
+<div class="slide">
+
+## Develop Framework
 source: [2023 TGDF] 極度邊緣的開發方式 (黃仕成) 
 * Early Discussion
   * ![](./04/Ross%20Huang(0).webp)
@@ -80,3 +122,7 @@ source: [2023 TGDF] 極度邊緣的開發方式 (黃仕成)
 * Post-Production
   * ![](./04/Ross%20Huang(5).webp)
   * ![](./04/Ross%20Huang(6).webp)
+
+</div>
+
+
