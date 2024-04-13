@@ -31,6 +31,9 @@
 
 <div class="slide">
 
+## 搜尋指導
+Google Quality Raters Guidelines 
+
 ## 相同內容只會出現在Google一次
 * 轉文懲罰
 
