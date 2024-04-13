@@ -13,7 +13,6 @@
 
 </div>
 
-
 <div class="slide">
 
 ## YT不同時期平台演算法
@@ -45,35 +44,47 @@
 
 </div>
 
-
 <div class="slide">
 
 ## Growth Hacking
 * 蒼藍鴿的醫學天地
 
-</div>
+### A/B Testing
 
-<div class="slide">
 
-## "乾我屁事"原則
-* TA設定
-* 解決問題導向
+### 六種人
+
 
 </div>
 
 <div class="slide">
 
-## 理解使用者
-* 負評
+## TA導向原則
+  * "乾我屁事"原則
+    * TA設定
+    * 解決問題導向
+  * 理解使用者
+    * 負評
+      * steam, google, 
+  * 白話
+  * 圖文並茂
 
 </div>
 
 <div class="slide">
 
-## 幫助使用者
-* 白話
-* 圖文並茂
+## E-E-A-T 原則
 
+Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要應用於其搜尋引擎的評分系統。
+
+* 專業性 (Expertise):
+  * 內容創作者應該具備相關領域的專業知識。對於健康、法律或財務等高度專業化的主題，專業性特別重要。
+* 經驗 (Experience):
+  * 這是 Google 新增的評估標準，強調創作者除了理論知識外，還應有實際操作或個人經歷的展示，這可以提供更多實用的見解和建議。
+* 權威性 (Authoritativeness):
+  * 指內容及其創作者在其領域內被認為是權威來源的程度。這通常透過專業認證、出版書籍或被其他權威來源引用來展示。
+* 可信度 (Trustworthiness):
+  * 內容需要來自可信的來源，並且能夠讓讀者感到信賴。這包括正確性、透明度（如公開披露利益衝突）以及安全性（如使用 HTTPS）。
 
 </div>
 
@@ -83,8 +94,8 @@
 * Hook
   * 終極指南、五分種搞定、這篇就夠了
 
-</div>
 
+</div>
 
 
 <div class="slide">
@@ -100,36 +111,40 @@
 
 <div class="slide">
 
-## 內容自有
-* 
-
-</div>
-
-<div class="slide">
-
 ## 網站設計
+* 讀取效率
 * 幫助google爬文
 * 數據驅動
   * Google Search Console
   * Google Analytics
-
-## 讀取效率
+* Mobile-First
+* User Experience (UX) 
+* 內容自有
+  * 避免平台倒閉
+  * 蒐集口袋名單
+* Link Building Strategies
 
 </div>
 
 <div class="slide">
 
 ## AI Agents
-* 資料查找AI
-  * 上網搜尋資料，提供高品質來源
-* 文章撰寫AI
-  * 將查詢資料基於TA需求寫成高品質文章放在個人網站上
-* TA AI
-  * 讓AI角色扮演目標TA，用以閱讀文章並判斷是否被TA喜歡 
-* 平台撰寫AI
-  * 將高品質文章，基於目前熱們的議題，發成社群文
-* 流量分析AI
-  * 基於數據資料，做流量分析成效，回饋給其他AI
+
+* AI Agents
+  * 資料查找AI
+    * 上網搜尋資料，提供高品質來源
+  * 文章撰寫AI
+    * 將查詢資料基於TA需求寫成高品質文章放在個人網站上
+  * TA AI
+    * 讓AI角色扮演目標TA，用以閱讀文章並判斷是否被TA喜歡 
+  * 平台撰寫AI
+    * 基於目前熱們的議題，尋找知識庫將高品質文章發成社群文
+  * 流量分析AI
+    * 基於數據資料，做流量分析成效，回饋給其他AI
+* 文件庫
+  * 問題定義
+  * TA設定
+  * 知識儲備
 
 </div>
 
@@ -137,10 +152,11 @@
 <div class="slide">
 
 ## References:
-* Jemmy Ko - 讓人一搜尋就找到你
+
 * Brendan Kane - 鉤引行銷：在訊息爆炸的時代運用鉤引點，只要3秒鐘就能突圍而出
 * 阿滴 x 圖文不符 - YouTuber 的 36 堂課：讓你被更多人看到
-* 許耀仁Paxton 
 * 冏星人 - 一寫就圈粉！文字力 x AI 最速打造自媒體影響力
+* 許耀仁Paxton 
+* Jemmy Ko - 讓人一搜尋就找到你
 
 </div>
