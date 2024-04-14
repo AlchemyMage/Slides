@@ -2,7 +2,7 @@
 
 <div class="slide">
 
-## Case Study - SEO 
+## Case Study
 
 * SEA + SEO = SEM
 * 解決問題原則
@@ -28,7 +28,7 @@
 * 短期流量 vs 長期成效
 * 流量型 vs 產品型
 
-## SEA + SEO = SEM
+### SEA + SEO = SEM
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div class="slide">
 
-## YT不同時期平台演算法
+## YT不同時期算法
 
 * 2006-2010年：
   * 初期發展，YouTube內容多樣但不專業，用戶尋求新奇和娛樂性。
@@ -80,7 +80,7 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
 * 可信度 (Trustworthiness):
   * 內容需要來自可信的來源，並且能夠讓讀者感到信賴。這包括正確性、透明度（如公開披露利益衝突）以及安全性（如使用 HTTPS）。
 
-## 搜尋指導
+### 搜尋指導
 Google Quality Raters Guidelines 
 
 ### 七比三
