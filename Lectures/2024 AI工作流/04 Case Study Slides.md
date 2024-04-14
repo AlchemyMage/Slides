@@ -129,6 +129,7 @@ ex: Tech.wav哈利每周花20hr在找資料，約8hr錄製+剪輯
 ## 網站設計
 * Mobile-First
   * User Experience (UX)
+  * ![](./04/DD2.webp)
 * 讀取效率
   * Webp
 * 幫助google爬文
