@@ -4,6 +4,33 @@ layout: page/note/basic
 
 # AI工作流04 Case Study - SEO Tables
 
+## Target Audience Analysis Table
+* **Persona**
+  * Tech Enthusiast
+* **Google Search String**
+  * "Future of AI technologies"
+* **Problem to Solve**
+  * Understanding the latest advancements in AI and how they impact daily life and industries.
+* **Intent**
+  * Research - seeking comprehensive insights and predictions about AI's future.
+* **Content Angle**
+  * Exploring cutting-edge AI innovations and their potential applications in various sectors.
+* **Keywords**
+  * "AI trends 2024"
+  * "Impact of AI on jobs"
+  * "Future AI predictions"
+* **Preferred Content Format**
+  * In-depth articles
+  * Infographics illustrating AI advancements
+* **Engagement Channels**
+  * Technology forums and communities
+  * LinkedIn groups focused on AI and technology trends
+* **Demographics**
+  * Age: 25-45
+  * Education: Bachelor's degree or higher in STEM fields
+  * Geographic: Global audience with a concentration in tech hubs like Silicon Valley, London, and Beijing
+
+
 ## SEO Audit Checklist
 
 * **Page Titles and Descriptions**
