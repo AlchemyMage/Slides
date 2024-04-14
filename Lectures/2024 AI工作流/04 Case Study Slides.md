@@ -3,6 +3,7 @@
 <div class="slide">
 
 ## Case Study - SEO 
+
 * SEA + SEO = SEM
 * 解決問題原則
 * 高品質文章
@@ -19,6 +20,7 @@
 <div class="slide">
 
 ## SEA vs SEO
+
 * 主動推播 vs 被動推播
 * 主動收入 vs 被動收入
 * 花錢下廣告 vs 花時間產內容
