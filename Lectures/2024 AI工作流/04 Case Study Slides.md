@@ -1,15 +1,49 @@
-# AI工作流04 Case Study Slides
+# AI工作流04 Case Study - SEO Slides
 
 <div class="slide">
 
-## AI工作流Case Study - SEO 
+## Case Study - SEO 
+* SEA + SEO = SEM
+* 解決問題原則
+* 高品質文章
 * Youtube平台演算法的演變
 * Google的唯一性政策與懲罰措施
 * Growth Hacking策略實例
-* "乾我屁事"原則
 * 理解與幫助使用者
 * 網站內容策略
 * 高效網站設計
+* AI工作流
+
+</div>
+
+<div class="slide">
+
+## SEA vs SEO
+* 主動推播 vs 被動推播
+* 主動收入 vs 被動收入
+* 花錢下廣告 vs 花時間產內容
+* 廣撒 vs 精準集中
+* 短期流量 vs 長期成效
+* 流量型 vs 產品型
+
+## SEA + SEO = SEM
+
+</div>
+
+<div class="slide">
+
+## TA導向原則
+* "乾我屁事"原則
+  * TA設定
+    * 搜尋情境
+  * 解決問題導向
+* 理解使用者
+  * 負評
+    * steam, google, 
+  * 不能葉配味道
+* 白話
+* 圖文並茂
+* 差異化
 
 </div>
 
@@ -25,49 +59,14 @@
   * 多樣化內容時期，平台推廣中短影片，大頻道多角觸及。
 * 2020年至今：
   * 後疫情時代，專業領域的小頻道成為主流。
+  * 分眾化時代
 
 </div>
-
-
-<div class="slide">
-
-## 搜尋指導
-Google Quality Raters Guidelines 
-
-### 評級懲罰
-* 相同內容只會出現在Google一次
-  * 轉文
-* 貓抓老鼠
-  * 懲罰洗流量
-    * ![](./04/在路上.webp)
-  * 自然流量
-    * ![](./04/柯文哲%20(0).webp)
-    * ![](./04/柯文哲%20(1).webp)
-    * ![](./04/柯文哲%20(2).webp)
-
-</div>
-
-
-<div class="slide">
-
-## TA導向原則
-  * "乾我屁事"原則
-    * TA設定
-    * 解決問題導向
-  * 理解使用者
-    * 負評
-      * steam, google, 
-  * 白話
-  * 圖文並茂
-
-</div>
-
 
 <div class="slide">
 
 ## 高品質內容
-E-E-A-T 原則
-
+### E-E-A-T 原則
 Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要應用於其搜尋引擎的評分系統。
 
 * 專業性 (Expertise):
@@ -79,11 +78,18 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
 * 可信度 (Trustworthiness):
   * 內容需要來自可信的來源，並且能夠讓讀者感到信賴。這包括正確性、透明度（如公開披露利益衝突）以及安全性（如使用 HTTPS）。
 
+## 搜尋指導
+Google Quality Raters Guidelines 
+
+### 七比三
+70%資料查找：30%內容生產
+
+ex: Tech.wav哈利每周花20hr在找資料，約8hr錄製+剪輯
+
 ### 長效型內容 vs 跟風熱門短效
 * 多平台內容策略
 * m觀點 -> m報, 科技巨頭解碼
 * 山道猴子、巨人完結篇、......
-
 
 </div>
 
@@ -95,27 +101,39 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
 
 ### Hook
 * 標題殺人、農場標題
-  * 終極指南、五分種搞定、這篇就夠了
+  * 終極指南、五分種搞定、這篇就夠了、99%的人都...
 
 ### A/B Testing
 
-
 ### 六種人
+
+### 評級
+#### 評級懲罰
+* 相同內容只會出現在Google一次
+  * 轉文
+* 貓抓老鼠
+  * 懲罰洗流量
+    * ![](./04/在路上.webp)
+  * 自然流量
+    * ![](./04/柯文哲%20(0).webp)
+    * ![](./04/柯文哲%20(1).webp)
+    * ![](./04/柯文哲%20(2).webp)
+
+### 黑帽SEO vs 白帽SEO
 
 
 </div>
 
-
 <div class="slide">
 
 ## 網站設計
+* Mobile-First
+  * User Experience (UX)
 * 讀取效率
+  * Webp
 * 幫助google爬文
-* 數據驅動
   * Google Search Console
   * Google Analytics
-* Mobile-First
-* User Experience (UX) 
 * 內容自有
   * 避免平台倒閉
   * 蒐集口袋名單
@@ -123,17 +141,26 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
 
 </div>
 
+
 <div class="slide">
 
-## AI Agents
+## 典範轉移思維
+
+### 紅海思維 vs 藍海思維
+
+### 專業領域框架
+
+### AI Agents
 
 * AI Agents
   * TA AI
     * 讓AI角色扮演目標TA，用以閱讀文章並判斷是否被TA喜歡 
   * 資料查找AI
-    * 上網搜尋資料，提供高品質來源
+    * 上網搜尋資料，提供高品質參考資料與知識儲備
+  * 關鍵字分析AI
+    * 查詢關鍵字數據，並分析
   * 文章撰寫AI
-    * 將查詢資料基於TA需求寫成高品質文章放在個人網站上
+    * 將查詢資料基於TA需求和關鍵字寫成高品質文章放在個人網站上
   * 平台撰寫AI
     * 基於目前熱們的議題，尋找知識庫將高品質文章發成社群文
   * 流量分析AI
@@ -141,20 +168,20 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
 * 文件庫
   * 問題定義
   * TA設定
-  * 寫作框架
   * 知識儲備
+  * 寫作框架
 
 </div>
 
-
 <div class="slide">
 
-## References:
+## References
 
 * Brendan Kane - 鉤引行銷：在訊息爆炸的時代運用鉤引點，只要3秒鐘就能突圍而出
 * 阿滴 x 圖文不符 - YouTuber 的 36 堂課：讓你被更多人看到
 * 冏星人 - 一寫就圈粉！文字力 x AI 最速打造自媒體影響力
 * 許耀仁Paxton 
 * Jemmy Ko - 讓人一搜尋就找到你
+* 邱韜誠 - SEO白話文
 
 </div>
