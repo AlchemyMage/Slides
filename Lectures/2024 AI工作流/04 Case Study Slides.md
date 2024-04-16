@@ -143,7 +143,9 @@ Google Quality Raters Guidelines
 <div class="slide">
 
 ## Growth Hacking
-* 蒼藍鴿的醫學天地
+* 病毒式分享機制
+* 社交媒體戰略
+  * ex:蒼藍鴿
 
 ### Hook
 * 標題殺人、農場標題
