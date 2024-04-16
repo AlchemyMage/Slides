@@ -70,7 +70,6 @@ layout: page/note/basic
 * **Opportunities**
   * Write about emerging AI technologies that could redefine industries.
   * Explore personal stories or case studies on adapting to AI changes.
-4. Backlink Analysis Table
 
 ## Backlink Analysis Table
 
