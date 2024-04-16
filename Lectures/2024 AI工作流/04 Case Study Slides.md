@@ -30,22 +30,23 @@
 
 ### SEA + SEO = SEM
 
+### Optimization
+「關鍵字 流量」＝「關鍵字 搜尋量」x「關鍵字 點閱率（排名）」
+
 </div>
 
 <div class="slide">
 
-## TA導向原則
+## 搜尋意圖
+* TA導向原則
 * "乾我屁事"原則
   * TA設定
     * 搜尋情境
   * 解決問題導向
 * 理解使用者
   * 負評
-    * steam, google, 
-  * 不能葉配味道
-* 白話
-* 圖文並茂
-* 差異化
+    * steam, google,
+      * 不能葉配味道
 
 </div>
 
@@ -84,15 +85,18 @@ Google 的 "E-E-A-T" 原則是評估內容品質的一種指導方針，主要�
   * 內容需要來自可信的來源，並且能夠讓讀者感到信賴。這包括正確性、透明度（如公開披露利益衝突）以及安全性（如使用 HTTPS）。
 
 ### 搜尋指導
-Google Quality Raters Guidelines 
+Google Quality Raters Guidelines
 
 ### 七比三
 70%資料查找：30%內容生產
 
-* ex: 
+* ex:
   * Tech.wav哈利每周花20hr在找資料，約8hr錄製+剪輯
   * 林亦高品質的長片做不到雙週更
 
+### 輔助讀者
+* 白話
+* 圖文並茂
 
 ### 長效型內容 vs 跟風熱門短效
 * 多平台內容策略
@@ -101,15 +105,45 @@ Google Quality Raters Guidelines
 
 </div>
 
+<div class="slide">
+
+## 關鍵字
+* 熱門關鍵字
+* 長尾關鍵字
+
+### Google Ads
+* 關鍵字規劃工具
+* 關鍵字搜尋量
+  * 難度分析
+
+### 關鍵字出現位置
+* ★★★★★ 標題（Title Tag）
+* ★★★★★ 開頭前100字
+* ★★★★★ 連結文字（Anchor Text）
+* ★★★★☆ 段落（Headings）
+* ★★★☆☆ 內容本體（Main Content）
+* ★★★☆☆ 相關字、同義字
+* (×) 關鍵字標籤（Keywords Meta Tag）
+
+</div>
+
+<div class="slide">
+
+## 文章內容
+* 熱門關鍵字
+* 長尾關鍵字
+
+### Google Ads
+* 關鍵字規劃工具
+* 關鍵字搜尋量
+  * 難度分析
+
+</div>
 
 <div class="slide">
 
 ## Growth Hacking
 * 蒼藍鴿的醫學天地
-
-### 關鍵字壟斷
-* 熱門關鍵字
-* 長尾關鍵字
 
 ### Hook
 * 標題殺人、農場標題
@@ -143,7 +177,7 @@ PCM 是一種心理學工具，用於了解不同人的性格特點和溝通方�
 
 <div class="slide">
 
-## 網站設計
+## Technical SEO
 * Mobile-First
   * User Experience (UX)
   * ![](./04/DD2.webp)
@@ -154,9 +188,12 @@ PCM 是一種心理學工具，用於了解不同人的性格特點和溝通方�
   * Google Analytics
   * sitemap.xml
 * 內容自有
+  * WordPress
   * 避免平台倒閉
   * 蒐集口袋名單
-* Link Building Strategies
+* Link
+  * Internal Link
+  * Link Building
 
 </div>
 
@@ -174,8 +211,8 @@ PCM 是一種心理學工具，用於了解不同人的性格特點和溝通方�
 
 * AI Agents
   * TA AI
-    * 讓AI角色扮演目標TA，用以閱讀文章並判斷是否被TA喜歡 
-  * 資料查找AI
+    * 讓AI角色扮演目標TA，用以閱讀文章並判斷是否被TA喜歡
+      * 資料查找AI
     * 上網搜尋資料，提供高品質參考資料與知識儲備
   * 關鍵字分析AI
     * 查詢關鍵字數據，並分析
@@ -200,7 +237,7 @@ PCM 是一種心理學工具，用於了解不同人的性格特點和溝通方�
 * Brendan Kane - 鉤引行銷：在訊息爆炸的時代運用鉤引點，只要3秒鐘就能突圍而出
 * 阿滴 x 圖文不符 - YouTuber 的 36 堂課：讓你被更多人看到
 * 冏星人 - 一寫就圈粉！文字力 x AI 最速打造自媒體影響力
-* 許耀仁Paxton 
+* 許耀仁Paxton
 * Jemmy Ko - 讓人一搜尋就找到你
 * 邱韜誠 - SEO白話文
 
