@@ -108,7 +108,8 @@ Google Quality Raters Guidelines
 * 蒼藍鴿的醫學天地
 
 ### 關鍵字壟斷
-
+* 熱門關鍵字
+* 長尾關鍵字
 
 ### Hook
 * 標題殺人、農場標題
@@ -151,6 +152,7 @@ PCM 是一種心理學工具，用於了解不同人的性格特點和溝通方�
 * 幫助google爬文
   * Google Search Console
   * Google Analytics
+  * sitemap.xml
 * 內容自有
   * 避免平台倒閉
   * 蒐集口袋名單
