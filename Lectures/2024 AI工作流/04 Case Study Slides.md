@@ -129,19 +129,6 @@ Google Quality Raters Guidelines
 
 <div class="slide">
 
-## 文章內容
-* 熱門關鍵字
-* 長尾關鍵字
-
-### Google Ads
-* 關鍵字規劃工具
-* 關鍵字搜尋量
-  * 難度分析
-
-</div>
-
-<div class="slide">
-
 ## Growth Hacking
 * 病毒式分享機制
 * 社交媒體戰略
