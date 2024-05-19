@@ -1,53 +1,46 @@
-Version:
-  "1.0.1"
+Version: "1.0.1"
 
-Author:
-  "PosetMage"
+Author: "PosetMage"
 
-Game_Title:
-  "西格爾戰記"
+Product_Title: "SEO Writer AI"
 
-Game_Type:
-  "2D 六角棋盤 SLG"
+Product_Type: "AI Writer for SEO Optimization"
 
-Introduction:
-  "一位被精靈扶養過之後被遺棄的人類少女,在幾經波折之後獲得魔神復活的消息，
-現在跟著矮人師傅一起修練，但似乎難以說服師傅一起對抗魔神......"
+Purpose: "An AI agent designed to help writers create SEO-optimized content effortlessly and efficiently. It aims to enhance the quality of content and improve search engine rankings."
 
-Abstract:
-  "戰棋類遊戲,類似 DnD 版的魔喚精靈"
+Abstract: "SEO Writer AI is an intelligent writing assistant that generates high-quality, SEO-optimized content based on given keywords and topics. It assists writers by providing real-time suggestions, keyword analysis, and content structure optimization."
 
-System:
-  "◆ 回合制戰棋<br>
-  ◆ 場地有狀態Entropy<br>
-  ◆ 不同種族策略取捨<br>
-  "
+Usage: "◆ Input target keywords and topics<br>
+◆ Receive real-time suggestions and improvements<br>
+◆ Automatically generate content outlines<br>
+◆ Analyze and optimize existing content<br>"
 
-TA_Platform:
-  "◆ 喜歡幻想世界的策略型玩家<br>
-  ◆ PC, Console, Mobile
-  "
+TA_Platform: "◆ Content creators and SEO professionals<br>
+◆ Bloggers and digital marketers<br>
+◆ Platforms: Web-based application, mobile app"
 
-Selling_Points:
-  "遊戲的賣點在Entropy機制。 Entropy區域內不同總族越多,行動懲罰越重"
+Features: "◆ Real-time keyword suggestions<br>
+◆ Automated content generation<br>
+◆ SEO analysis and optimization<br>
+◆ Content structure recommendations"
 
-World:
-  "日系萌系JRPG風格的劍與魔法世界，有著戰士、法師、典型的精靈、矮人。<br>
-世界最大的法則是Entropy，影響著世界的運作，甚至平行世界之間也是由Entropy牆所阻隔。"
+Examples: "◆ A blogger using the AI to generate blog posts<br>
+◆ A digital marketer optimizing web pages for better SEO<br>
+◆ An SEO professional analyzing content for improvements"
 
-Competitive:
-  "◆ 魔喚精靈<br>
-  ◆ 皇家騎士團<br>
-  ◆ 天結<br>
-  "
-Concept_Art:
-  "<img src=\"./origin_reference.webp\">"
+Competitive: "◆ Jasper AI<br>
+◆ Writesonic<br>
+◆ Copy.ai<br>
+"
 
-Game_Image1:
-  "<img src=\"./first_shot.webp\">"
+Business_Model: "◆ Subscription-based model<br>
+◆ Freemium with premium features<br>
+◆ Enterprise solutions for large teams"
 
-Game_Image2:
-  "<img src=\"./first_shot_edit.webp\">"
+Product_Image1: "<img src=\"./seo_writer_screenshot1.webp\">"
 
-Play_Demo:
-  "戰鬥前玩家需要配置隊伍成員中不同種族的比率。戰鬥開始後，雙方會派各自的兵力配置去戰鬥,在區域內有不同種族行動會觸發讓行動困難的Entropy值。"
+Product_Image2: "<img src=\"./seo_writer_screenshot2.webp\">"
+
+Pricing: "◆ Basic: $29/month<br>
+◆ Pro: $79/month<br>
+◆ Enterprise: Custom pricing"

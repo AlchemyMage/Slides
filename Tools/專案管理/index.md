@@ -31,39 +31,9 @@
 <div class="slide">
 
 ## 一頁式簡報
-
-</div>
-
-<div class="slide">
-
+* [template](./proposal.html)
+* [fill data](./proposal.yml)
+* [Converter](https://shinra.posetmage.com/GameDesign/Tool/Converter.html)
 
 
 </div>
-
-<div class="slide">
-
-
-
-</div>
-
-<div class="slide">
-
-
-
-</div>
-
-<div class="slide">
-
-
-
-</div>
-
-<div class="slide">
-
-
-
-</div>
-
-<div class="slide">
-
-
