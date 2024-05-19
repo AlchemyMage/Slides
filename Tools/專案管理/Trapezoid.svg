@@ -42,7 +42,7 @@
      text_anchor="middle"
      alignment_baseline="middle"
      fill="#000000"
-     id="text4">...</text>
+     id="text4">$</text>
   <polygon
      points="100.0,100.0 200.0,100.0 175.0,50.0 125.0,50.0"
      fill="#cccccc"
