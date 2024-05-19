@@ -12,7 +12,7 @@ cd ../
 
 git config --local user.name "AlchemyMage"
 git config --local user.email "alchemy@posetmage.com"
-git remote set-url origin git@AM:AlchemyMage/Slides.git
+git remote set-url origin git@AL:AlchemyMage/Slides.git
 
 git submodule update --recursive --remote
 

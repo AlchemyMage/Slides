@@ -44,19 +44,11 @@ collections:
   directories:
     output: true
 
-
-social:
-  - platform: envelope
-    url: mailto:alchemy@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@alchemymage
-  - platform: facebook
-    url: https://facebook.com/alchemymage
-  - platform: twitter
-    url: https://twitter.com/alchemymage
-  - platform: threads
-    url: https://threads.net/alchemy.mage
-
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 # Build settings
 remote_theme: jekyll/minima
